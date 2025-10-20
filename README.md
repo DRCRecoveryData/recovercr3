@@ -1,3 +1,6 @@
+
+<img width="702" height="782" alt="Screenshot 2025-10-20 215353" src="https://github.com/user-attachments/assets/76c5a941-6f07-46de-b986-76b94f356eaf" />
+
 ================================================================================
         Tool for recovering Canon CR3 photos from disc dumps
 ================================================================================
